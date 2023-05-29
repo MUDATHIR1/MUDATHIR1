@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MUDATHIR1
 - 👀 I’m interested in software programing 
 - 🌱 I’m currently learning CODING
-- 💞️ I’m looking to collaborate on CODIN AND SOFTWARE PROGRAMING
+- 💞️ I’m looking to collaborate on CODING AND SOFTWARE PROGRAMING
 - 📫 How to reach me 08131878964
 
 <!---
